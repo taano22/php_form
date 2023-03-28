@@ -1,0 +1,58 @@
+.form-area {
+    width: 80%;
+    margin: 100px auto;
+}
+.form-area h1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.form-area table {
+    width: 100%;
+}
+.form-area th {
+    width: 40%;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #000000;
+    background-color: #dcdcdc;
+}
+.form-area td {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #000000;
+}
+th span {
+    font-size: 0.7em;
+}
+.req {
+    color: #FF0000;
+}
+.input-area {
+    display: flex;
+    align-items: flex-end;
+}
+.counter {
+    font-size: 0.7em;
+}
+.previmg-area {
+    margin: 10px;
+}
+.btn-area {
+    width: 20%;
+    margin: 30px auto;
+}
+.btn-confirm {
+    width: 5%;
+    margin: auto;
+}
+.btn-back {
+    float: left;
+}
+.btn-send {
+    float: right;
+}
+.result-message {
+    width: 90%;
+    margin: 30px auto;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+@media screen and (max-width: 800px) {
+    .form-area {
+        width: 70%;
+        margin: 100px auto;
+    }
+    .form-area table {
+        width: 100%;
+    }
+    .form-area h1 {
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+    .form-area th, .form-area td{
+        display: block;
+        width: 100%;
+        padding: 5px;
+    }
+    textarea {
+        width: 70%;
+    }
+    .previmg-area {
+        margin: 5px;
+    }
+}
